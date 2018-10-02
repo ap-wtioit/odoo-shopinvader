@@ -12,4 +12,4 @@ pyquerystring
 parse-accept-language
 slugify
 openupgradelib
-magic
+python-magic
