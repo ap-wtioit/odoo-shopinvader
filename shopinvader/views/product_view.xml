@@ -24,6 +24,9 @@
                             </group>
                             <notebook>
                                 <page name="description_and_seo" string="Description and Seo">
+                                    <group name="name">
+                                        <field name="shopinvader_name"/>
+                                    </group>
                                     <group name="seo">
                                          <field name="seo_title"/>
                                          <field name="meta_keywords"/>
